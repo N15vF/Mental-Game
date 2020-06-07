@@ -1,2 +1,1 @@
-# Mental-Game
-# Ejecutar el juego con Python3...
+
