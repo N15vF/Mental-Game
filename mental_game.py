@@ -9,7 +9,7 @@ from random import randrange
 print("\n")
 
 print("               ******************************")
-print("               *     ADIVINAR  RESPUESTA    *")
+print("               *     MENTAL    -   GAME     *")
 print("               ******************************")
 
 localtime = time.localtime()
@@ -25,7 +25,7 @@ time.sleep (4.3)
 print(": Procura recordar el numero que piensas...\n")
 time.sleep (5.5)
 
-print("\n--- ** OK COMENSAMOS ** ---\n")
+print("\n--- ** OK COMENZAMOS ** ---\n")
 
 print("     -----------Oooo---")
 print("     -----------(----)---")
