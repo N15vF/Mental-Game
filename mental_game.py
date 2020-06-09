@@ -50,7 +50,7 @@ time.sleep (6.5)
 print("\n==> Ahora Dividelo entre: 2 \n")
 time.sleep (6.7)
 
-print("==> Ahora Resta Todo menos el * NUMERO * que Pensaste...\n")
+print("==> Ahora Resta el * NUMERO * que Pensaste...\n")
 time.sleep (7.4)
 
 print("   *** TU RESPUESTA ES... ***  \n")
